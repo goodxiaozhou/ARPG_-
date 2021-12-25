@@ -1,0 +1,14 @@
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\bin\Debug\TCP服务器端.exe.config
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\bin\Debug\TCP服务器端.exe
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\bin\Debug\TCP服务器端.pdb
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\obj\Debug\TCP服务器端.csprojAssemblyReference.cache
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\obj\Debug\TCP服务器端.csproj.CoreCompileInputs.cache
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\obj\Debug\TCP服务器端.exe
+C:\Users\83883\source\repos\ConsoleApp2\TCP服务器端\obj\Debug\TCP服务器端.pdb
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\bin\Debug\TCP服务器端.exe.config
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\bin\Debug\TCP服务器端.exe
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\bin\Debug\TCP服务器端.pdb
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\obj\Debug\TCP服务器端.csprojAssemblyReference.cache
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\obj\Debug\TCP服务器端.csproj.CoreCompileInputs.cache
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\obj\Debug\TCP服务器端.exe
+D:\OneDrive\桌面\Arpg游戏Demo\服务器端\TCP服务器端\obj\Debug\TCP服务器端.pdb

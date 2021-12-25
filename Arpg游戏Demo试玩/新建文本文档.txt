@@ -1,0 +1,7 @@
+大家好！这是一个简单的2d游戏Demo,目前是大四在读，希望游戏会可以入行游戏开发行业。
+试玩Demo
+链接：https://pan.baidu.com/s/1TUrkT86FzRGRhGTBAi_tpg 提取码：1111
+项目源码
+链接：https://pan.baidu.com/s/1ikEdthCyaW2o0uT18wt2iQ 提取码：1111
+UI，特效相关资源全部来源- Asset Store
+角色，地图资源：https://itch.io/games-like/791872/red-hood-character
